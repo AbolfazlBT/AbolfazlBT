@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AbolfazlBT/AbolfazlBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning Python, SQL, Data Analysis and Machine Learning.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python Developer
+* 🗄️ Learning PostgreSQL & SQL
+* 📊 Interested in Data Analysis
+* 🤖 Exploring Machine Learning
+* 🚀 Building projects and improving every day
+
+## Current Goals
+
+* Strengthen Python skills
+* Master SQL and PostgreSQL
+* Build Data Analysis projects
+* Create Machine Learning projects
+* Grow my GitHub portfolio
+
+## Tools & Technologies
+
+* Python
+* SQL
+* PostgreSQL
+* Git
+* GitHub
+
+Thanks for visiting my profile! 😊
