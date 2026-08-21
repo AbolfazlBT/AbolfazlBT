@@ -24,7 +24,10 @@ I'm building my foundation step by step — from programming and data to machine
 
 ## Tools & Technologies
 
-Python SQL Git GitHub
+Python
+SQL
+Git
+GitHub
 
 ---
 
